@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The unskillful skirmisher rebuked for blasphemy being a brief answer to to a pamphlet entituled, A skirmish made upon Quakerism.</title>
+            <author>Sixmith, Bryan, d. 1679.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93309</idno>
+            <idno type="STC">Wing S3924</idno>
+            <idno type="STC">ESTC R229399</idno>
+            <idno type="EEBO-CITATION">42475180</idno>
+            <idno type="OCLC">ocm 42475180</idno>
+            <idno type="VID">151338</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93309)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151338)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2255:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The unskillful skirmisher rebuked for blasphemy being a brief answer to to a pamphlet entituled, A skirmish made upon Quakerism.</title>
+                  <author>Sixmith, Bryan, d. 1679.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1676]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from Wing (2nd ed.).</note>
+                  <note>Signed on p.7: Warrington the 3d. of the 8th. Moneth, 1676. Bryan Sixmith.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England)</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>J. C. --  (John Cheyney). --  Skirmish made upon Quakerism.</term>
+               <term>Inner Light.</term>
+               <term>Society of Friends --  Apologetic works.</term>
+               <term>Society of Friends --  Doctrines --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:151338:1"/>
+            <head>THE Unskilful Skirmiſher rebuked FOR BLASPHEMY: Being a Brief Anſwer to a Pamphlet entitu<g ref="char:EOLhyphen"/>led, <hi>A Skirmiſh made upon Quakeriſm.</hi>
+            </head>
+            <p>I have read over a Book put forth by <hi>John Chey<g ref="char:EOLhyphen"/>ney,</hi> called, <hi>A Skirmiſh made upon Quakeriſm,</hi> which he ſaith, is <hi>a brief Confutation of a moſt groſs Principle, or Point of Doctrine maintained by one</hi> William Penn <hi>a</hi> Quaker. A meer Brag, as in time will be made manifeſt.</p>
+            <p>
+               <hi>William Penn</hi>'s Words are theſe following (to clear his Poſition) <hi>Such Commands are either relating to Or<g ref="char:EOLhyphen"/>dinary, or Extraordinary Caſes; by Ordinary Caſes I mean, ſuch as chiefly concern Faith and Holy Life, which are General, Permanent and Indiſpenſible.</hi>
+            </p>
+            <p>
+               <hi>By Extraordinary Caſes I underſtand,</hi> Moſes <hi>going to</hi> Pharaoh; <hi>the Prophets ſeveral manner of Appearances to the Kings, Prieſts and People of</hi> Iſrael, <hi>with other temporary Commands relating to outward Services; and ſo we do ſay, that what is commanded to one man, is not binding, as ſuch to another.</hi>
+            </p>
+            <pb n="2" facs="tcp:151338:2"/>
+            <p> 
+               <hi>But when the Lord ſhall ſay, if thou ſinneſt thou ſhalt dye, if thou keepeſt my Commandments thou ſhalt live; be ye holy; for I the Lord your God am holy,</hi> quoting theſe Scriptures, 1 <hi>Pet.</hi> 2.21. <hi>Heb.</hi> 13.7. 2 <hi>Theſ.</hi> 3. And in theſe following Words ſaith, <hi>Theſe Precepts and Examples are obliging upon all; why? becauſe they more or leſs meet with a Conviction in the Conſciences of all; for</hi> (ſaith he) <hi>I am perſwaded none that has a rea<g ref="char:EOLhyphen"/>ſonable Soul, who has not out lived their Day, and on whom the Night is not come, amongſt the</hi> Indians <hi>them<g ref="char:EOLhyphen"/>ſelves, but would readily ſay, theſe are true and weighty Sayings; for Faith in God and an holy Self-denying Life, are neceſſary both to Temporal and Eternal Happineſs.</hi>
+            </p>
+            <p>This with much more, beſides a dozen pages (in his <hi>Rejoynder</hi>) of ſober Confutation hath he beſtow<g ref="char:EOLhyphen"/>ed to clear this Paſſage from ſuch ungodly Conſe<g ref="char:EOLhyphen"/>quences; and in thoſe Pages bringeth <hi>William Tindal</hi> that ancient Proteſtant-Martyr, whom <hi>John Fox</hi> cal<g ref="char:EOLhyphen"/>leth the Engliſh-Apoſtle; <hi>John Jewel</hi> Biſhop of <hi>Salis<g ref="char:EOLhyphen"/>bury,</hi> and <hi>Thomas Collier</hi> an Eminent Man amongſt the Weſtern-Separatiſts in Confirmation of this Po<g ref="char:EOLhyphen"/>ſition, which <hi>John Cheyney</hi> taketh no notice of.</p>
+            <p>But the very things he chargeth againſt the <hi>Qua<g ref="char:EOLhyphen"/>kers,</hi> is he guilty of in every particular himſelf, and greater Blaſphemy did I never meet with in ſo few Lines, then is aſſerted by <hi>Iohn Cheyney;</hi> beſides, ſuch Contradiction, as none but a Novice durſt have ventured to have publiſhed to the World.</p>
+            <p>The Apoſtle <hi>Paul</hi> who was a faithful Miniſter of Chriſt, his Doctrine was (as all his Miniſters at this day is) to turn People <hi>from Darkneſs to Light, and from the Power of Satan to the Power of God, Acts</hi> 26.18.</p>
+            <pb n="3" facs="tcp:151338:2"/>
+            <p> 
+               <hi>Iohn Cheyney</hi> queſtions this Doctrine by ſaying, <hi>What if the Light be idle, negligent, ſleepy, unfaithful, bribed and will let the Sinner ſin, and dye in Sin.</hi>
+            </p>
+            <p>The Scripture ſaith, John 3.19. <hi>This is the Con<g ref="char:EOLhyphen"/>demnation that Light is come into the World, and men love Darkneſs rather then Light, becauſe their Deeds are evil; for every one that doth evil hateth the Light, nei<g ref="char:EOLhyphen"/>ther cometh to the Light, leſt his Deeds ſhould be reproved, but he that doth Truth cometh to the Light, that his Deeds may be made manifeſt that they are wrought in God.</hi>
+            </p>
+            <p>Now J. C's Doctrine is quite contrary, he ſaith, <hi>The Light may be negligent, idle, ſleepy, will let men ſin and die in Sin.</hi> O horrid Blaſphemy!</p>
+            <p>
+               <hi>Job</hi> ſaith, <hi>Thoſe that do wickedly rebel againſt the Light,</hi> Job 24.13. <hi>Is there any Number of his Armies, and upon whom doth not his Light ariſe?</hi> Job 25.3. <hi>David</hi> ſaith, <hi>The Lord is my Light and my Salvation, whom ſhall I fear?</hi> Pſalm 27.1. But <hi>Iohn Cheyney</hi> ſaith, <hi>The Light within gives the Drunkard leave to be drunk, the Worldling to be a Worldling, the Impenitent man to be Impenitent,</hi> when the Scripture ſaith, <hi>The Life of God was the Light of men,</hi> John 1.4. and <hi>John</hi> came to bear witneſs to the Light, that all men through him might believe, <hi>John</hi> 1.7. But J. C. rather bears witneſs againſt it, ſaying, <hi>The Light within takes Part with the Fleſh and Satan againſt God,</hi> and ſaith, <hi>There is never a Soul in Hell but he may blame the Light within; for if the Light within were faithful to God and the Soul, it would not ſuffer any man to live in Sin, and dye in Sin.</hi> I do think greater Wickedneſs never came out of a Prieſt's Mouth.</p>
+            <p>Now in Contradiction to himſelf, he ſaith, <hi>It's
+<pb n="4" facs="tcp:151338:3"/>true, I grant that without the Light within we could not come to the Knowledge of the Scripture,</hi> which indeed is Truth, for the Light of Chriſt was the Original of the Scripture, and is and will be forever the Au<g ref="char:EOLhyphen"/>thority of the Scripture; for the holy men of God ſpoke as they were moved of the holy Ghoſt, in which is Light, Life, Power, Strength and Ability to all that believe in the Light, to perform thoſe things that the Lord requires of them, according to the Scripture of Truth.</p>
+            <p>But ſaith <hi>J. C. Penn and all his Partakers conceit ſtrange things of the Light within, and ſet it above the Scriptures</hi> (and what doth he leſs in ſaying, that <hi>without the Light within we could not come to the Know<g ref="char:EOLhyphen"/>ledge of them) and this is their very Principle</hi> (ſaith he) <hi>that the Light within ſhould be our Rule, and the Scrip<g ref="char:EOLhyphen"/>ture inferiour to it.</hi>
+            </p>
+            <p>Now let any moderate ſerious Perſons, whoſe Conſciences are not given up to believe Lies conſider whether that which giveth a right and true Under<g ref="char:EOLhyphen"/>ſtanding of the Scriptures (which <hi>John Cheyney</hi> gran<g ref="char:EOLhyphen"/>teth we cannot come to know without the Light within, which is the Light of Chriſt) be not the more ſure Word of Prophecy, unto which we do well to take heed, till the day dawn, and the Day-Star ariſe in our Hearts, as the Apoſtle ſaith; for God is Light and in him is no Darkneſs at all; and it is the Inſpi<g ref="char:EOLhyphen"/>ration of the Almighty that giveth Underſtanding; for we cannot think a good Thought of our ſelves, much leſs do a good Deed; for it is the Lord that worketh in us both to will and to do of his own good Pleaſure.</p>
+            <pb n="5" facs="tcp:151338:3"/>
+            <p> I do affirm in the Name of God, that it is prepo<g ref="char:EOLhyphen"/>ſterouſly abſurd for any man to charge the Rebellion of wicked men to the Inſufficiency of the Light with<g ref="char:EOLhyphen"/>in, as <hi>John Cheyney</hi> hath done, comparing it to a negligent drunken Coach man, who ſleeps and the Horſes run Wood, or he drives into Pits and Bogs; <hi>ſo,</hi> ſaith he, <hi>the Light within takes Part with the Fleſh and Satan againſt God, and ſuffers the Soul to be ſenſual, worldly and ungodly, and ſo is at leaſt the permiſſive Cauſe of the Sinner's Sin and Damnation.</hi>
+            </p>
+            <p>This I do affirm is contrary to the Doctrine of Chriſt and his Apoſtles; for their Doctrine was to turn People from Darkneſs to Light, from the Pow<g ref="char:EOLhyphen"/>er of Satan to the Power of God, <hi>Acts</hi> 26.18. <hi>In him was Life, and the Life was the Light of men,</hi> John 1.4. and this is the true Light that <hi>John</hi> bore record of, that lighteth every man that cometh into the World, <hi>John</hi> 1.9. and it is in this Light that we be<g ref="char:EOLhyphen"/>lieve, by which we are certainly perſwaded that there is no Salvation nor Redemption from Sin, but by him who is ſaid to be the true Light, that light<g ref="char:EOLhyphen"/>eth every man that cometh into the World, which doth reprove in ſecret, when no Eye ſeeth, as it is written, <hi>All things that are reproved are made manifeſt by the Light; for whatſoever doth make manifeſt is Light,</hi> Epheſ. 5.13. <hi>And if we walk in the Light, as he is in the Light, then have we Fellowſhip one with another, and the Blood of Jeſus Chriſt cleanſeth us from all Sin,</hi> 1 Joh. 1.7. <hi>And God who commanded Light to ſhine out of Darkneſs hath ſhined in our Hearts to give us the Know<g ref="char:EOLhyphen"/>ledge of the Glory of God in the Face of Jeſus Chriſt;</hi> ſo that we dare not blame the Light of Chriſt within,
+<pb n="6" facs="tcp:151338:4"/>if men through their Rebellion bring Deſtruction upon themſelves, the Light is their Condemnation, <hi>John</hi> 3.19. But if the Light within which ſhould be man's Guide, be ſo unfaithful both to God and man, as through its Negligence and Idleneſs (as <hi>John Cheyney</hi> blaſphemouſly ſaith) ſhould give leave to ſin, then could not the Light be man's Condemnation, but muſt condemn it ſelf; but I do affirm in the Name of the God of <hi>Iſrael,</hi> that the Light, with which Chriſt hath enlightned every man that co<g ref="char:EOLhyphen"/>meth into the world, is God's faithful and true Witneſs, that never ſuffered Sin to go unreproved in the Conſciences of thoſe that hearken to it, and many can ſet to their Seals, that this is the Reproof of Inſtruction, which is the Way of Life.</p>
+            <p>
+               <hi>John Cheyney</hi> ſaith, <hi>now comes</hi> Penn <hi>and a Sect of Peo<g ref="char:EOLhyphen"/>ple called</hi> Quakers, <hi>and cry up the Light within, and tell us we muſt hearken to this in all things, and further then this Light within ſhall teach and lead us, we are to give no hearkning to what the Scripture ſaith.</hi>
+            </p>
+            <p>Now obſerve, he hath confeſſed that <hi>it's true, that without the Light within we cannot at all come to the Knowledge of the Scripture,</hi> and if he would be faith<g ref="char:EOLhyphen"/>ful to what he grants to be true, what cauſe hath he to find fault with the <hi>Quakers</hi> for minding and crying up the Light within, whenas himſelf ſuith, <hi>we cannot come to the Knowledge of the Scripture without the</hi> Light <hi>within.</hi>
+            </p>
+            <p>But I perceive <hi>J. C.</hi> was ambitious to be ſeen to do ſomething in print againſt the Light, and the People whom God hath bleſſed; but it is my Faith in God,
+<pb n="7" facs="tcp:151338:4"/>that it is to little purpoſe, except to publiſh his own Shame and everlaſting Contempt unleſs he repent; for Truth is not his Covering, but Falſhood and De<g ref="char:EOLhyphen"/>ceit, which will be ſtript off him, and he left naked and bare to all whoſe Senſes are exerciſed to diſcern betwixt Good and Evil; for certain I am he doth err not knowing the Scriptures nor the Power of God: Many other things I have in my Mind againſt what he hath written, but believing ere long he will re<g ref="char:EOLhyphen"/>ceive a more full Anſwer from ſome that are more particularly concerned, I conclude, having nothing in my Heart but Love to his Perſon, but I am an Ir<g ref="char:EOLhyphen"/>reconcileable Enemy to his pernicious Opinions of the Light within, which will be too hard for him to ſtrive againſt; for <hi>the Nations of them that are ſaved ſhall walk in the Light of the Lamb,</hi> Rev. 21.24. which is the Light that the <hi>Quakers</hi> direct People to, and exalt over all.</p>
+            <closer>
+               <dateline>Warrington <date>the 3<hi>d.</hi> of the 8<hi>th.</hi> Mo<g ref="char:EOLhyphen"/>neth, 1676.</date>
+               </dateline>
+               <signed>Bryan Sixmith.</signed>
+            </closer>
+         </div>
+         <trailer>THE END</trailer>
+      </body>
+   </text>
+</TEI>
